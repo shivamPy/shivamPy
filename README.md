@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivamPy
-- 📫 How to reach me https://www.linkedin.com/in/shivam-gupta-742b511b4
+- 📫 How to reach me www.linkedin.com/in/shivam-gupta1-sde
 
 <!---
 shivamPy/shivamPy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
